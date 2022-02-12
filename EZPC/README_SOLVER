@@ -1,0 +1,54 @@
+Basic idea: 
+	Model each "feature" as a binary feature ..
+	specify min/max; e.g., at least 3 from Asia etc. limits per column; 
+	specify PC constraints on availability 
+	Model this as ILP with a control variable indicating if candidate PC member is selected or not
+	
+
+NOTES: 
+	excel exports with weird linebreak -- preprocess the file usiong "perl -pi -e 's/\r\n/\n/g' input.file"
+	Install glpsol 
+	no special characters (" ", -, . in name)
+	
+	
+INPUTS:
+
+1. features.txt
+	CSV file
+	binary for each feature
+	Names cannot have any special characters
+
+	e.g., 
+	#Name,Area1,Area2,Area3 
+	Foo,1,0,1
+
+2. columnconstraints
+	CSV file
+	list min max per column
+	Column names must match those in features.txt
+	e.g., Area1,3,5
+	 Area1,3,5
+
+
+3. rowconstraints
+	have some people already been selected/declined?	
+	e.g., if we are doing second round etc, we can impose constraints on those who have already said yes/no
+
+	e.g., Foo,1 (Foo has to be there)
+		Blah,0 (Blah has declined)
+
+4. Total MAX pc size
+
+5. Solution file
+
+
+HOWTO RUN:
+
+	USAGE:
+	perl ezpc_solver.pl features.csv columnconstraints.csv candidateconstraints.csv groupconstraints.txt targetpcsizemin targetpcsizemax solutionfile 
+	e.g., 
+		perl ezpc_solver.pl template_features.txt template_colconstraints.txt template_candidate_constraints.txt template_groups.txt 3 5 solution.txt
+
+	Look at the output and pick the people whose "d_$name" variables have been assigned 1
+	Or you can use the extract_solution.pl script to do that 
+

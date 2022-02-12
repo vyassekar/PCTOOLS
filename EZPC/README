@@ -1,0 +1,14 @@
+All you need to do is run wrapper
+
+perl ezpc_wrapper.pl anonymized_input.tsv TEST 60 70
+
+
+--> anonymized_input.tsv is what i expect you will get from your google doc?
+
+TEST is just a suffix i used for tracking version/when i ran it
+
+60 is minpcsize 70 is maxpcsize
+
+prereqs to run:
+	dos2unix
+	glpsol (via glpk)

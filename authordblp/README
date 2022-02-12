@@ -1,0 +1,3 @@
+Export dblp record as JSON
+
+edit file name (eg nsdi2020.json) inside script to export authors

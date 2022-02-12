@@ -1,0 +1,281 @@
+Minimize
+ Cost:   d_d0b87472 + d_08ff8d2f + d_5ec935ad + d_49083997 + d_2ad48170 + d_9d70a218 + d_98ff74c3 + d_a340b66c + d_ddb833db + d_c21f67d3 + d_9cb10483 + d_ca992851 + d_a0f413c1 + d_73c6dac7 + d_f476a125 + d_d13725bc + d_f2fb100b + d_151cf1e3 + d_76553238 + d_569fe185 + d_569f3f27 + d_cbc15cdb + d_394e5875 + d_cbb2e9f9 + d_be931a62 + d_1cdb5979 + d_7ea85f8c + d_27ff270c + d_41f409ad + d_d8f56364 + d_f1023f1f + d_75b84034 + d_4323a40a + d_c23b8e00 + d_856e6fc1 + d_40bf9c10 + d_e55d57bd + d_6a222c1a + d_6a2200fe + d_e45d93e2 + d_2665e284 + d_cf2ac5e1 + d_673f65f3 + d_2dd56c8b + d_1a0eaa6b + d_c589d483 + d_b4214b2d + d_eb244e50 + d_969dd810 + d_2ba09a62 + d_f252650b + d_16f35e31 + d_8229950c + d_edb23aa0 + d_083feac7 + d_5227eb4c + d_6f2d7b9c + d_10aba0ec + d_e82b5b27 + d_8406c693 + d_90ed3bd4 + d_b7ea1fd5 + d_d97dd06f + d_0558c9dd + d_15c775d8 + d_3a37cdc7 + d_75e4d32d + d_2f6b186b + d_1fd5edd4 + d_5b512498 + d_9d1913de + d_e2266266 + d_596c9360 + d_f4539007 + d_7fc490e1 + d_6e3c5cbb + d_6e3cf1ce + d_6e3ce0df + d_6199c456 + d_1231bb27 + d_154211bf + d_8306e650 + d_67418443 + d_cddc896a + d_2fe8ec48 + d_068cd185 + d_f83bfe15 + d_f564ce4b + d_d34c6625 + d_75fd6fb7 + d_e591f7ae + d_12a2ebd4 + d_00b3c4f1 + d_9f184d15 + d_a062c1a5 + d_fb35238e + d_6521de54 + d_05988f21 + d_a6c768f3 + d_ba05b43d + d_28aee8c5 + d_092c6625 + d_02db7625 + d_3239e055 + d_703fdac3 + d_703fb2dd + d_4bc9c37a + d_9f9a35c2 + d_10e6b05e + d_ff602976 + d_a2ee9cea + d_5b6326df + d_a4dc0d8c + d_7008c742 + d_a60f6e5b + d_2a9d214a + d_ed455875 + d_bfed6c90 + d_c520d251 + d_8d8a7fdc + d_e9149bf7 + d_52e07f92 + d_8dfd2555 + d_7f34adf5 + d_dadb8799 + d_716d4e50 + d_a1f7a087 + d_7dba6ba3 
+Subject To
+TOTALPCSIZEMAX: d_d0b87472 + d_08ff8d2f + d_5ec935ad + d_49083997 + d_2ad48170 + d_9d70a218 + d_98ff74c3 + d_a340b66c + d_ddb833db + d_c21f67d3 + d_9cb10483 + d_ca992851 + d_a0f413c1 + d_73c6dac7 + d_f476a125 + d_d13725bc + d_f2fb100b + d_151cf1e3 + d_76553238 + d_569fe185 + d_569f3f27 + d_cbc15cdb + d_394e5875 + d_cbb2e9f9 + d_be931a62 + d_1cdb5979 + d_7ea85f8c + d_27ff270c + d_41f409ad + d_d8f56364 + d_f1023f1f + d_75b84034 + d_4323a40a + d_c23b8e00 + d_856e6fc1 + d_40bf9c10 + d_e55d57bd + d_6a222c1a + d_6a2200fe + d_e45d93e2 + d_2665e284 + d_cf2ac5e1 + d_673f65f3 + d_2dd56c8b + d_1a0eaa6b + d_c589d483 + d_b4214b2d + d_eb244e50 + d_969dd810 + d_2ba09a62 + d_f252650b + d_16f35e31 + d_8229950c + d_edb23aa0 + d_083feac7 + d_5227eb4c + d_6f2d7b9c + d_10aba0ec + d_e82b5b27 + d_8406c693 + d_90ed3bd4 + d_b7ea1fd5 + d_d97dd06f + d_0558c9dd + d_15c775d8 + d_3a37cdc7 + d_75e4d32d + d_2f6b186b + d_1fd5edd4 + d_5b512498 + d_9d1913de + d_e2266266 + d_596c9360 + d_f4539007 + d_7fc490e1 + d_6e3c5cbb + d_6e3cf1ce + d_6e3ce0df + d_6199c456 + d_1231bb27 + d_154211bf + d_8306e650 + d_67418443 + d_cddc896a + d_2fe8ec48 + d_068cd185 + d_f83bfe15 + d_f564ce4b + d_d34c6625 + d_75fd6fb7 + d_e591f7ae + d_12a2ebd4 + d_00b3c4f1 + d_9f184d15 + d_a062c1a5 + d_fb35238e + d_6521de54 + d_05988f21 + d_a6c768f3 + d_ba05b43d + d_28aee8c5 + d_092c6625 + d_02db7625 + d_3239e055 + d_703fdac3 + d_703fb2dd + d_4bc9c37a + d_9f9a35c2 + d_10e6b05e + d_ff602976 + d_a2ee9cea + d_5b6326df + d_a4dc0d8c + d_7008c742 + d_a60f6e5b + d_2a9d214a + d_ed455875 + d_bfed6c90 + d_c520d251 + d_8d8a7fdc + d_e9149bf7 + d_52e07f92 + d_8dfd2555 + d_7f34adf5 + d_dadb8799 + d_716d4e50 + d_a1f7a087 + d_7dba6ba3  <= 70
+TOTALPCSIZEMIN: d_d0b87472 + d_08ff8d2f + d_5ec935ad + d_49083997 + d_2ad48170 + d_9d70a218 + d_98ff74c3 + d_a340b66c + d_ddb833db + d_c21f67d3 + d_9cb10483 + d_ca992851 + d_a0f413c1 + d_73c6dac7 + d_f476a125 + d_d13725bc + d_f2fb100b + d_151cf1e3 + d_76553238 + d_569fe185 + d_569f3f27 + d_cbc15cdb + d_394e5875 + d_cbb2e9f9 + d_be931a62 + d_1cdb5979 + d_7ea85f8c + d_27ff270c + d_41f409ad + d_d8f56364 + d_f1023f1f + d_75b84034 + d_4323a40a + d_c23b8e00 + d_856e6fc1 + d_40bf9c10 + d_e55d57bd + d_6a222c1a + d_6a2200fe + d_e45d93e2 + d_2665e284 + d_cf2ac5e1 + d_673f65f3 + d_2dd56c8b + d_1a0eaa6b + d_c589d483 + d_b4214b2d + d_eb244e50 + d_969dd810 + d_2ba09a62 + d_f252650b + d_16f35e31 + d_8229950c + d_edb23aa0 + d_083feac7 + d_5227eb4c + d_6f2d7b9c + d_10aba0ec + d_e82b5b27 + d_8406c693 + d_90ed3bd4 + d_b7ea1fd5 + d_d97dd06f + d_0558c9dd + d_15c775d8 + d_3a37cdc7 + d_75e4d32d + d_2f6b186b + d_1fd5edd4 + d_5b512498 + d_9d1913de + d_e2266266 + d_596c9360 + d_f4539007 + d_7fc490e1 + d_6e3c5cbb + d_6e3cf1ce + d_6e3ce0df + d_6199c456 + d_1231bb27 + d_154211bf + d_8306e650 + d_67418443 + d_cddc896a + d_2fe8ec48 + d_068cd185 + d_f83bfe15 + d_f564ce4b + d_d34c6625 + d_75fd6fb7 + d_e591f7ae + d_12a2ebd4 + d_00b3c4f1 + d_9f184d15 + d_a062c1a5 + d_fb35238e + d_6521de54 + d_05988f21 + d_a6c768f3 + d_ba05b43d + d_28aee8c5 + d_092c6625 + d_02db7625 + d_3239e055 + d_703fdac3 + d_703fb2dd + d_4bc9c37a + d_9f9a35c2 + d_10e6b05e + d_ff602976 + d_a2ee9cea + d_5b6326df + d_a4dc0d8c + d_7008c742 + d_a60f6e5b + d_2a9d214a + d_ed455875 + d_bfed6c90 + d_c520d251 + d_8d8a7fdc + d_e9149bf7 + d_52e07f92 + d_8dfd2555 + d_7f34adf5 + d_dadb8799 + d_716d4e50 + d_a1f7a087 + d_7dba6ba3  >= 60
+FEATUREMIN.networking: d_e591f7ae + d_28aee8c5 + d_b7ea1fd5 + d_8229950c + d_7ea85f8c + d_76553238 + d_f1023f1f + d_9f184d15 + d_edb23aa0 + d_068cd185 + d_d97dd06f + d_7f34adf5 + d_2f6b186b + d_e55d57bd + d_6a2200fe + d_ddb833db + d_856e6fc1 + d_2a9d214a + d_f476a125 + d_98ff74c3 + d_10e6b05e + d_bfed6c90 + d_dadb8799 + d_a1f7a087 + d_75e4d32d + d_f2fb100b + d_cddc896a + d_4bc9c37a + d_ca992851 + d_6199c456 + d_75b84034 + d_be931a62 + d_c589d483 + d_703fdac3 + d_c23b8e00 + d_0558c9dd + d_a062c1a5 + d_d13725bc + d_40bf9c10 + d_c520d251 + d_9f9a35c2 + d_12a2ebd4 + d_49083997 + d_6a222c1a + d_a4dc0d8c + d_a60f6e5b + d_a6c768f3 + d_6e3cf1ce + d_73c6dac7 + d_1231bb27 + d_394e5875 + d_8406c693 + d_90ed3bd4 + d_673f65f3 + d_08ff8d2f + d_cbc15cdb + d_75fd6fb7 + d_05988f21 + d_7dba6ba3 + d_02db7625 + d_f83bfe15 + d_151cf1e3 + d_596c9360 + d_67418443 + d_154211bf >= 0
+FEATUREMAX.networking: d_e591f7ae + d_28aee8c5 + d_b7ea1fd5 + d_8229950c + d_7ea85f8c + d_76553238 + d_f1023f1f + d_9f184d15 + d_edb23aa0 + d_068cd185 + d_d97dd06f + d_7f34adf5 + d_2f6b186b + d_e55d57bd + d_6a2200fe + d_ddb833db + d_856e6fc1 + d_2a9d214a + d_f476a125 + d_98ff74c3 + d_10e6b05e + d_bfed6c90 + d_dadb8799 + d_a1f7a087 + d_75e4d32d + d_f2fb100b + d_cddc896a + d_4bc9c37a + d_ca992851 + d_6199c456 + d_75b84034 + d_be931a62 + d_c589d483 + d_703fdac3 + d_c23b8e00 + d_0558c9dd + d_a062c1a5 + d_d13725bc + d_40bf9c10 + d_c520d251 + d_9f9a35c2 + d_12a2ebd4 + d_49083997 + d_6a222c1a + d_a4dc0d8c + d_a60f6e5b + d_a6c768f3 + d_6e3cf1ce + d_73c6dac7 + d_1231bb27 + d_394e5875 + d_8406c693 + d_90ed3bd4 + d_673f65f3 + d_08ff8d2f + d_cbc15cdb + d_75fd6fb7 + d_05988f21 + d_7dba6ba3 + d_02db7625 + d_f83bfe15 + d_151cf1e3 + d_596c9360 + d_67418443 + d_154211bf <= 50
+FEATUREMIN.bigdata: d_b4214b2d + d_569f3f27 + d_e2266266 + d_cbb2e9f9 + d_a0f413c1 + d_a6c768f3 + d_8406c693 + d_7f34adf5 + d_6f2d7b9c + d_73c6dac7 + d_10aba0ec + d_f252650b + d_7fc490e1 + d_00b3c4f1 + d_ff602976 + d_12a2ebd4 + d_f1023f1f + d_a1f7a087 + d_67418443 + d_75e4d32d + d_f4539007 + d_083feac7 + d_5b512498 + d_6521de54 + d_5b6326df >= 0
+FEATUREMAX.bigdata: d_b4214b2d + d_569f3f27 + d_e2266266 + d_cbb2e9f9 + d_a0f413c1 + d_a6c768f3 + d_8406c693 + d_7f34adf5 + d_6f2d7b9c + d_73c6dac7 + d_10aba0ec + d_f252650b + d_7fc490e1 + d_00b3c4f1 + d_ff602976 + d_12a2ebd4 + d_f1023f1f + d_a1f7a087 + d_67418443 + d_75e4d32d + d_f4539007 + d_083feac7 + d_5b512498 + d_6521de54 + d_5b6326df <= 40
+FEATUREMIN.wireless: d_b7ea1fd5 + d_8dfd2555 + d_e9149bf7 + d_856e6fc1 + d_1fd5edd4 + d_e82b5b27 + d_15c775d8 + d_9cb10483 + d_d0b87472 + d_1cdb5979 + d_9f184d15 + d_49083997 + d_3a37cdc7 + d_2665e284 + d_40bf9c10 + d_a2ee9cea + d_f2fb100b + d_7008c742 + d_02db7625 + d_a062c1a5 + d_f564ce4b + d_7dba6ba3 >= 0
+FEATUREMAX.wireless: d_b7ea1fd5 + d_8dfd2555 + d_e9149bf7 + d_856e6fc1 + d_1fd5edd4 + d_e82b5b27 + d_15c775d8 + d_9cb10483 + d_d0b87472 + d_1cdb5979 + d_9f184d15 + d_49083997 + d_3a37cdc7 + d_2665e284 + d_40bf9c10 + d_a2ee9cea + d_f2fb100b + d_7008c742 + d_02db7625 + d_a062c1a5 + d_f564ce4b + d_7dba6ba3 <= 30
+FEATUREMIN.economics: d_41f409ad + d_10e6b05e + d_9f9a35c2 + d_e45d93e2 + d_8229950c >= 0
+FEATUREMAX.economics: d_41f409ad + d_10e6b05e + d_9f9a35c2 + d_e45d93e2 + d_8229950c <= 20
+FEATUREMIN.womendiversity_w: d_e45d93e2 + d_dadb8799 + d_6521de54 + d_7dba6ba3 + d_10e6b05e + d_596c9360 + d_27ff270c + d_f83bfe15 + d_75fd6fb7 + d_e9149bf7 + d_2ad48170 + d_856e6fc1 + d_eb244e50 + d_b4214b2d + d_2a9d214a + d_f476a125 + d_1cdb5979 + d_a60f6e5b + d_716d4e50 + d_9cb10483 + d_7f34adf5 + d_90ed3bd4 + d_1231bb27 + d_d97dd06f + d_12a2ebd4 + d_a340b66c + d_00b3c4f1 + d_8306e650 + d_7fc490e1 + d_f252650b + d_fb35238e + d_8229950c + d_969dd810 + d_3239e055 + d_5b512498 + d_41f409ad + d_2fe8ec48 + d_ba05b43d + d_8dfd2555 + d_b7ea1fd5 + d_4bc9c37a + d_cddc896a >= 0
+FEATUREMAX.womendiversity_w: d_e45d93e2 + d_dadb8799 + d_6521de54 + d_7dba6ba3 + d_10e6b05e + d_596c9360 + d_27ff270c + d_f83bfe15 + d_75fd6fb7 + d_e9149bf7 + d_2ad48170 + d_856e6fc1 + d_eb244e50 + d_b4214b2d + d_2a9d214a + d_f476a125 + d_1cdb5979 + d_a60f6e5b + d_716d4e50 + d_9cb10483 + d_7f34adf5 + d_90ed3bd4 + d_1231bb27 + d_d97dd06f + d_12a2ebd4 + d_a340b66c + d_00b3c4f1 + d_8306e650 + d_7fc490e1 + d_f252650b + d_fb35238e + d_8229950c + d_969dd810 + d_3239e055 + d_5b512498 + d_41f409ad + d_2fe8ec48 + d_ba05b43d + d_8dfd2555 + d_b7ea1fd5 + d_4bc9c37a + d_cddc896a <= 30
+FEATUREMIN.distsystems: d_28aee8c5 + d_569f3f27 + d_e2266266 + d_6199c456 + d_ca992851 + d_16f35e31 + d_cddc896a + d_49083997 + d_f252650b + d_9f184d15 + d_a4dc0d8c + d_7fc490e1 + d_c520d251 + d_9f9a35c2 + d_6e3c5cbb + d_00b3c4f1 + d_f1023f1f + d_7008c742 + d_cf2ac5e1 + d_ba05b43d + d_092c6625 + d_41f409ad + d_f4539007 + d_2fe8ec48 + d_5b512498 + d_3239e055 + d_8229950c + d_9d70a218 + d_ed455875 + d_5b6326df + d_2a9d214a + d_4323a40a + d_05988f21 + d_b4214b2d + d_673f65f3 + d_eb244e50 + d_d34c6625 + d_6e3ce0df + d_d8f56364 + d_9d1913de + d_7f34adf5 + d_73c6dac7 + d_1231bb27 + d_716d4e50 + d_2ba09a62 + d_e45d93e2 + d_f83bfe15 + d_75e4d32d + d_083feac7 + d_5227eb4c + d_703fb2dd + d_10e6b05e + d_bfed6c90 + d_52e07f92 + d_6521de54 >= 0
+FEATUREMAX.distsystems: d_28aee8c5 + d_569f3f27 + d_e2266266 + d_6199c456 + d_ca992851 + d_16f35e31 + d_cddc896a + d_49083997 + d_f252650b + d_9f184d15 + d_a4dc0d8c + d_7fc490e1 + d_c520d251 + d_9f9a35c2 + d_6e3c5cbb + d_00b3c4f1 + d_f1023f1f + d_7008c742 + d_cf2ac5e1 + d_ba05b43d + d_092c6625 + d_41f409ad + d_f4539007 + d_2fe8ec48 + d_5b512498 + d_3239e055 + d_8229950c + d_9d70a218 + d_ed455875 + d_5b6326df + d_2a9d214a + d_4323a40a + d_05988f21 + d_b4214b2d + d_673f65f3 + d_eb244e50 + d_d34c6625 + d_6e3ce0df + d_d8f56364 + d_9d1913de + d_7f34adf5 + d_73c6dac7 + d_1231bb27 + d_716d4e50 + d_2ba09a62 + d_e45d93e2 + d_f83bfe15 + d_75e4d32d + d_083feac7 + d_5227eb4c + d_703fb2dd + d_10e6b05e + d_bfed6c90 + d_52e07f92 + d_6521de54 <= 40
+FEATUREMIN.virtos: d_a4dc0d8c + d_c520d251 + d_8d8a7fdc + d_f1023f1f + d_cf2ac5e1 + d_ba05b43d + d_151cf1e3 + d_5227eb4c + d_2dd56c8b + d_d13725bc + d_1a0eaa6b + d_092c6625 + d_75e4d32d + d_703fb2dd + d_ed455875 + d_9d70a218 + d_2a9d214a + d_75b84034 + d_28aee8c5 + d_eb244e50 + d_cbb2e9f9 + d_cbc15cdb + d_16f35e31 + d_73c6dac7 + d_7f34adf5 + d_90ed3bd4 + d_a60f6e5b + d_716d4e50 + d_5ec935ad >= 0
+FEATUREMAX.virtos: d_a4dc0d8c + d_c520d251 + d_8d8a7fdc + d_f1023f1f + d_cf2ac5e1 + d_ba05b43d + d_151cf1e3 + d_5227eb4c + d_2dd56c8b + d_d13725bc + d_1a0eaa6b + d_092c6625 + d_75e4d32d + d_703fb2dd + d_ed455875 + d_9d70a218 + d_2a9d214a + d_75b84034 + d_28aee8c5 + d_eb244e50 + d_cbb2e9f9 + d_cbc15cdb + d_16f35e31 + d_73c6dac7 + d_7f34adf5 + d_90ed3bd4 + d_a60f6e5b + d_716d4e50 + d_5ec935ad <= 50
+FEATUREMIN.womendiversity_d: d_cf2ac5e1 + d_2ba09a62 + d_bfed6c90 >= 0
+FEATUREMAX.womendiversity_d: d_cf2ac5e1 + d_2ba09a62 + d_bfed6c90 <= 30
+FEATUREMIN.deployments: d_05988f21 + d_2a9d214a + d_4323a40a + d_28aee8c5 + d_be931a62 + d_7f34adf5 + d_9d1913de + d_6e3cf1ce + d_15c775d8 + d_068cd185 + d_edb23aa0 + d_fb35238e + d_083feac7 + d_cf2ac5e1 + d_0558c9dd + d_c589d483 + d_7dba6ba3 >= 0
+FEATUREMAX.deployments: d_05988f21 + d_2a9d214a + d_4323a40a + d_28aee8c5 + d_be931a62 + d_7f34adf5 + d_9d1913de + d_6e3cf1ce + d_15c775d8 + d_068cd185 + d_edb23aa0 + d_fb35238e + d_083feac7 + d_cf2ac5e1 + d_0558c9dd + d_c589d483 + d_7dba6ba3 <= 30
+FEATUREMIN.geo_eu: d_2ad48170 + d_c520d251 + d_6199c456 + d_569f3f27 + d_7fc490e1 + d_75b84034 + d_2f6b186b + d_6f2d7b9c + d_d97dd06f + d_f83bfe15 + d_7ea85f8c >= 0
+FEATUREMAX.geo_eu: d_2ad48170 + d_c520d251 + d_6199c456 + d_569f3f27 + d_7fc490e1 + d_75b84034 + d_2f6b186b + d_6f2d7b9c + d_d97dd06f + d_f83bfe15 + d_7ea85f8c <= 50
+FEATUREMIN.storagecachingdb: d_703fb2dd + d_6521de54 + d_5227eb4c + d_083feac7 + d_2ba09a62 + d_ff602976 + d_716d4e50 + d_c21f67d3 + d_9d1913de + d_a6c768f3 + d_d8f56364 + d_8406c693 + d_7f34adf5 + d_eb244e50 + d_6e3ce0df + d_2ad48170 + d_ddb833db + d_4323a40a + d_b4214b2d + d_5b512498 + d_cf2ac5e1 + d_2fe8ec48 + d_2dd56c8b + d_092c6625 + d_f4539007 + d_8d8a7fdc + d_a340b66c + d_f1023f1f + d_f252650b + d_7fc490e1 + d_8306e650 + d_5ec935ad + d_16f35e31 + d_6199c456 + d_a0f413c1 + d_569f3f27 >= 0
+FEATUREMAX.storagecachingdb: d_703fb2dd + d_6521de54 + d_5227eb4c + d_083feac7 + d_2ba09a62 + d_ff602976 + d_716d4e50 + d_c21f67d3 + d_9d1913de + d_a6c768f3 + d_d8f56364 + d_8406c693 + d_7f34adf5 + d_eb244e50 + d_6e3ce0df + d_2ad48170 + d_ddb833db + d_4323a40a + d_b4214b2d + d_5b512498 + d_cf2ac5e1 + d_2fe8ec48 + d_2dd56c8b + d_092c6625 + d_f4539007 + d_8d8a7fdc + d_a340b66c + d_f1023f1f + d_f252650b + d_7fc490e1 + d_8306e650 + d_5ec935ad + d_16f35e31 + d_6199c456 + d_a0f413c1 + d_569f3f27 <= 50
+FEATUREMIN.industryacad_a: d_569f3f27 + d_75b84034 + d_a0f413c1 + d_ca992851 + d_5ec935ad + d_4bc9c37a + d_15c775d8 + d_8306e650 + d_a4dc0d8c + d_6a222c1a + d_f252650b + d_49083997 + d_12a2ebd4 + d_9f9a35c2 + d_c520d251 + d_6e3c5cbb + d_40bf9c10 + d_092c6625 + d_a062c1a5 + d_0558c9dd + d_9d70a218 + d_ed455875 + d_c23b8e00 + d_3239e055 + d_b4214b2d + d_05988f21 + d_569fe185 + d_cbc15cdb + d_673f65f3 + d_08ff8d2f + d_90ed3bd4 + d_8406c693 + d_1231bb27 + d_73c6dac7 + d_a6c768f3 + d_6e3cf1ce + d_1cdb5979 + d_716d4e50 + d_9cb10483 + d_2665e284 + d_10aba0ec + d_154211bf + d_2ba09a62 + d_67418443 + d_596c9360 + d_151cf1e3 + d_f564ce4b + d_27ff270c + d_02db7625 + d_f83bfe15 + d_52e07f92 + d_6521de54 + d_7dba6ba3 + d_b7ea1fd5 + d_28aee8c5 + d_1fd5edd4 + d_e2266266 + d_8dfd2555 + d_6f2d7b9c + d_e591f7ae + d_d0b87472 + d_7fc490e1 + d_3a37cdc7 + d_f1023f1f + d_7008c742 + d_8d8a7fdc + d_a340b66c + d_a2ee9cea + d_00b3c4f1 + d_76553238 + d_f4539007 + d_1a0eaa6b + d_2dd56c8b + d_2fe8ec48 + d_cf2ac5e1 + d_7ea85f8c + d_8229950c + d_5b512498 + d_2a9d214a + d_98ff74c3 + d_856e6fc1 + d_e9149bf7 + d_d34c6625 + d_2ad48170 + d_cbb2e9f9 + d_2f6b186b + d_7f34adf5 + d_6a2200fe + d_e82b5b27 + d_d97dd06f + d_068cd185 + d_ff602976 + d_f2fb100b + d_e45d93e2 + d_75e4d32d + d_a1f7a087 + d_dadb8799 + d_bfed6c90 + d_703fb2dd + d_10e6b05e >= 0
+FEATUREMAX.industryacad_a: d_569f3f27 + d_75b84034 + d_a0f413c1 + d_ca992851 + d_5ec935ad + d_4bc9c37a + d_15c775d8 + d_8306e650 + d_a4dc0d8c + d_6a222c1a + d_f252650b + d_49083997 + d_12a2ebd4 + d_9f9a35c2 + d_c520d251 + d_6e3c5cbb + d_40bf9c10 + d_092c6625 + d_a062c1a5 + d_0558c9dd + d_9d70a218 + d_ed455875 + d_c23b8e00 + d_3239e055 + d_b4214b2d + d_05988f21 + d_569fe185 + d_cbc15cdb + d_673f65f3 + d_08ff8d2f + d_90ed3bd4 + d_8406c693 + d_1231bb27 + d_73c6dac7 + d_a6c768f3 + d_6e3cf1ce + d_1cdb5979 + d_716d4e50 + d_9cb10483 + d_2665e284 + d_10aba0ec + d_154211bf + d_2ba09a62 + d_67418443 + d_596c9360 + d_151cf1e3 + d_f564ce4b + d_27ff270c + d_02db7625 + d_f83bfe15 + d_52e07f92 + d_6521de54 + d_7dba6ba3 + d_b7ea1fd5 + d_28aee8c5 + d_1fd5edd4 + d_e2266266 + d_8dfd2555 + d_6f2d7b9c + d_e591f7ae + d_d0b87472 + d_7fc490e1 + d_3a37cdc7 + d_f1023f1f + d_7008c742 + d_8d8a7fdc + d_a340b66c + d_a2ee9cea + d_00b3c4f1 + d_76553238 + d_f4539007 + d_1a0eaa6b + d_2dd56c8b + d_2fe8ec48 + d_cf2ac5e1 + d_7ea85f8c + d_8229950c + d_5b512498 + d_2a9d214a + d_98ff74c3 + d_856e6fc1 + d_e9149bf7 + d_d34c6625 + d_2ad48170 + d_cbb2e9f9 + d_2f6b186b + d_7f34adf5 + d_6a2200fe + d_e82b5b27 + d_d97dd06f + d_068cd185 + d_ff602976 + d_f2fb100b + d_e45d93e2 + d_75e4d32d + d_a1f7a087 + d_dadb8799 + d_bfed6c90 + d_703fb2dd + d_10e6b05e <= 60
+FEATUREMIN.careerstage_senior: d_083feac7 + d_5227eb4c + d_02db7625 + d_dadb8799 + d_7dba6ba3 + d_f2fb100b + d_2ba09a62 + d_394e5875 + d_7f34adf5 + d_e82b5b27 + d_d97dd06f + d_a60f6e5b + d_05988f21 + d_b4214b2d + d_2a9d214a + d_856e6fc1 + d_569fe185 + d_cbc15cdb + d_cbb2e9f9 + d_41f409ad + d_092c6625 + d_76553238 + d_d13725bc + d_cf2ac5e1 + d_ba05b43d + d_a062c1a5 + d_8229950c + d_9d70a218 + d_5b512498 + d_c589d483 + d_6a222c1a + d_8306e650 + d_7fc490e1 + d_edb23aa0 + d_3a37cdc7 + d_fb35238e + d_49083997 + d_9f184d15 + d_f1023f1f + d_7008c742 + d_a340b66c + d_c520d251 + d_9f9a35c2 + d_6e3c5cbb + d_16f35e31 + d_ca992851 + d_569f3f27 + d_b7ea1fd5 + d_be931a62 + d_75b84034 + d_1fd5edd4 + d_6199c456 >= 0
+FEATUREMAX.careerstage_senior: d_083feac7 + d_5227eb4c + d_02db7625 + d_dadb8799 + d_7dba6ba3 + d_f2fb100b + d_2ba09a62 + d_394e5875 + d_7f34adf5 + d_e82b5b27 + d_d97dd06f + d_a60f6e5b + d_05988f21 + d_b4214b2d + d_2a9d214a + d_856e6fc1 + d_569fe185 + d_cbc15cdb + d_cbb2e9f9 + d_41f409ad + d_092c6625 + d_76553238 + d_d13725bc + d_cf2ac5e1 + d_ba05b43d + d_a062c1a5 + d_8229950c + d_9d70a218 + d_5b512498 + d_c589d483 + d_6a222c1a + d_8306e650 + d_7fc490e1 + d_edb23aa0 + d_3a37cdc7 + d_fb35238e + d_49083997 + d_9f184d15 + d_f1023f1f + d_7008c742 + d_a340b66c + d_c520d251 + d_9f9a35c2 + d_6e3c5cbb + d_16f35e31 + d_ca992851 + d_569f3f27 + d_b7ea1fd5 + d_be931a62 + d_75b84034 + d_1fd5edd4 + d_6199c456 <= 40
+FEATUREMIN.cloud: d_ba05b43d + d_cf2ac5e1 + d_d13725bc + d_5227eb4c + d_083feac7 + d_f4539007 + d_c589d483 + d_3239e055 + d_bfed6c90 + d_6521de54 + d_f252650b + d_49083997 + d_7fc490e1 + d_edb23aa0 + d_8306e650 + d_00b3c4f1 + d_ff602976 + d_9d1913de + d_16f35e31 + d_ca992851 + d_d8f56364 + d_1231bb27 + d_7f34adf5 + d_6a2200fe + d_716d4e50 + d_28aee8c5 + d_75b84034 + d_b4214b2d + d_569f3f27 + d_eb244e50 + d_cbc15cdb >= 3
+FEATUREMAX.cloud: d_ba05b43d + d_cf2ac5e1 + d_d13725bc + d_5227eb4c + d_083feac7 + d_f4539007 + d_c589d483 + d_3239e055 + d_bfed6c90 + d_6521de54 + d_f252650b + d_49083997 + d_7fc490e1 + d_edb23aa0 + d_8306e650 + d_00b3c4f1 + d_ff602976 + d_9d1913de + d_16f35e31 + d_ca992851 + d_d8f56364 + d_1231bb27 + d_7f34adf5 + d_6a2200fe + d_716d4e50 + d_28aee8c5 + d_75b84034 + d_b4214b2d + d_569f3f27 + d_eb244e50 + d_cbc15cdb <= 40
+FEATUREMIN.systems: d_703fb2dd + d_10e6b05e + d_bfed6c90 + d_5227eb4c + d_083feac7 + d_e45d93e2 + d_ff602976 + d_f2fb100b + d_d97dd06f + d_d8f56364 + d_7f34adf5 + d_6a2200fe + d_cbb2e9f9 + d_d34c6625 + d_ddb833db + d_2ad48170 + d_2a9d214a + d_5b512498 + d_cf2ac5e1 + d_1a0eaa6b + d_f4539007 + d_2fe8ec48 + d_2dd56c8b + d_f1023f1f + d_a340b66c + d_7fc490e1 + d_edb23aa0 + d_e591f7ae + d_1fd5edd4 + d_28aee8c5 + d_7dba6ba3 + d_6521de54 + d_151cf1e3 + d_2ba09a62 + d_716d4e50 + d_a60f6e5b + d_a6c768f3 + d_6e3cf1ce + d_9d1913de + d_90ed3bd4 + d_1231bb27 + d_673f65f3 + d_eb244e50 + d_cbc15cdb + d_b4214b2d + d_969dd810 + d_9d70a218 + d_5b6326df + d_ed455875 + d_a062c1a5 + d_ba05b43d + d_092c6625 + d_d13725bc + d_c520d251 + d_9f9a35c2 + d_f252650b + d_fb35238e + d_a4dc0d8c + d_5ec935ad + d_4bc9c37a + d_ca992851 + d_16f35e31 + d_6199c456 + d_75b84034 + d_569f3f27 >= 0
+FEATUREMAX.systems: d_703fb2dd + d_10e6b05e + d_bfed6c90 + d_5227eb4c + d_083feac7 + d_e45d93e2 + d_ff602976 + d_f2fb100b + d_d97dd06f + d_d8f56364 + d_7f34adf5 + d_6a2200fe + d_cbb2e9f9 + d_d34c6625 + d_ddb833db + d_2ad48170 + d_2a9d214a + d_5b512498 + d_cf2ac5e1 + d_1a0eaa6b + d_f4539007 + d_2fe8ec48 + d_2dd56c8b + d_f1023f1f + d_a340b66c + d_7fc490e1 + d_edb23aa0 + d_e591f7ae + d_1fd5edd4 + d_28aee8c5 + d_7dba6ba3 + d_6521de54 + d_151cf1e3 + d_2ba09a62 + d_716d4e50 + d_a60f6e5b + d_a6c768f3 + d_6e3cf1ce + d_9d1913de + d_90ed3bd4 + d_1231bb27 + d_673f65f3 + d_eb244e50 + d_cbc15cdb + d_b4214b2d + d_969dd810 + d_9d70a218 + d_5b6326df + d_ed455875 + d_a062c1a5 + d_ba05b43d + d_092c6625 + d_d13725bc + d_c520d251 + d_9f9a35c2 + d_f252650b + d_fb35238e + d_a4dc0d8c + d_5ec935ad + d_4bc9c37a + d_ca992851 + d_16f35e31 + d_6199c456 + d_75b84034 + d_569f3f27 <= 50
+FEATUREMIN.securityprivacy: d_f2fb100b + d_e45d93e2 + d_dadb8799 + d_bfed6c90 + d_10e6b05e + d_7dba6ba3 + d_5227eb4c + d_75e4d32d + d_27ff270c + d_f83bfe15 + d_569fe185 + d_d34c6625 + d_673f65f3 + d_b4214b2d + d_98ff74c3 + d_1cdb5979 + d_2f6b186b + d_7f34adf5 + d_6e3cf1ce + d_d8f56364 + d_7008c742 + d_6e3c5cbb + d_00b3c4f1 + d_9f9a35c2 + d_7fc490e1 + d_49083997 + d_ed455875 + d_9d70a218 + d_8229950c + d_0558c9dd + d_3239e055 + d_5b512498 + d_d13725bc + d_41f409ad + d_1a0eaa6b + d_6199c456 + d_569f3f27 + d_28aee8c5 + d_16f35e31 >= 0
+FEATUREMAX.securityprivacy: d_f2fb100b + d_e45d93e2 + d_dadb8799 + d_bfed6c90 + d_10e6b05e + d_7dba6ba3 + d_5227eb4c + d_75e4d32d + d_27ff270c + d_f83bfe15 + d_569fe185 + d_d34c6625 + d_673f65f3 + d_b4214b2d + d_98ff74c3 + d_1cdb5979 + d_2f6b186b + d_7f34adf5 + d_6e3cf1ce + d_d8f56364 + d_7008c742 + d_6e3c5cbb + d_00b3c4f1 + d_9f9a35c2 + d_7fc490e1 + d_49083997 + d_ed455875 + d_9d70a218 + d_8229950c + d_0558c9dd + d_3239e055 + d_5b512498 + d_d13725bc + d_41f409ad + d_1a0eaa6b + d_6199c456 + d_569f3f27 + d_28aee8c5 + d_16f35e31 <= 50
+FEATUREMIN.netmanagement: d_08ff8d2f + d_05988f21 + d_2a9d214a + d_f476a125 + d_98ff74c3 + d_068cd185 + d_a60f6e5b + d_7f34adf5 + d_2f6b186b + d_394e5875 + d_90ed3bd4 + d_e55d57bd + d_1231bb27 + d_6e3cf1ce + d_d97dd06f + d_154211bf + d_dadb8799 + d_bfed6c90 + d_7dba6ba3 + d_10e6b05e + d_596c9360 + d_a1f7a087 + d_f83bfe15 + d_75b84034 + d_28aee8c5 + d_cddc896a + d_e591f7ae + d_9f9a35c2 + d_6a222c1a + d_edb23aa0 + d_49083997 + d_8229950c + d_0558c9dd + d_76553238 + d_a062c1a5 >= 0
+FEATUREMAX.netmanagement: d_08ff8d2f + d_05988f21 + d_2a9d214a + d_f476a125 + d_98ff74c3 + d_068cd185 + d_a60f6e5b + d_7f34adf5 + d_2f6b186b + d_394e5875 + d_90ed3bd4 + d_e55d57bd + d_1231bb27 + d_6e3cf1ce + d_d97dd06f + d_154211bf + d_dadb8799 + d_bfed6c90 + d_7dba6ba3 + d_10e6b05e + d_596c9360 + d_a1f7a087 + d_f83bfe15 + d_75b84034 + d_28aee8c5 + d_cddc896a + d_e591f7ae + d_9f9a35c2 + d_6a222c1a + d_edb23aa0 + d_49083997 + d_8229950c + d_0558c9dd + d_76553238 + d_a062c1a5 <= 50
+FEATUREMIN.geo_asia: d_cbc15cdb + d_fb35238e + d_9f184d15 + d_b4214b2d + d_b7ea1fd5 + d_c23b8e00 + d_6e3cf1ce + d_75e4d32d >= 0
+FEATUREMAX.geo_asia: d_cbc15cdb + d_fb35238e + d_9f184d15 + d_b4214b2d + d_b7ea1fd5 + d_c23b8e00 + d_6e3cf1ce + d_75e4d32d <= 50
+FEATUREMIN.hardware: d_f83bfe15 + d_27ff270c + d_a1f7a087 + d_151cf1e3 + d_c589d483 + d_ed455875 + d_f252650b + d_3a37cdc7 + d_edb23aa0 + d_a4dc0d8c + d_c520d251 + d_1231bb27 + d_394e5875 + d_6a2200fe + d_068cd185 + d_716d4e50 + d_e591f7ae + d_cbb2e9f9 >= 0
+FEATUREMAX.hardware: d_f83bfe15 + d_27ff270c + d_a1f7a087 + d_151cf1e3 + d_c589d483 + d_ed455875 + d_f252650b + d_3a37cdc7 + d_edb23aa0 + d_a4dc0d8c + d_c520d251 + d_1231bb27 + d_394e5875 + d_6a2200fe + d_068cd185 + d_716d4e50 + d_e591f7ae + d_cbb2e9f9 <= 50
+FEATUREMIN.careerstage_early: d_eb244e50 + d_08ff8d2f + d_6e3ce0df + d_ddb833db + d_d34c6625 + d_2ad48170 + d_98ff74c3 + d_f476a125 + d_716d4e50 + d_a6c768f3 + d_73c6dac7 + d_8406c693 + d_90ed3bd4 + d_e45d93e2 + d_154211bf + d_ff602976 + d_10aba0ec + d_2665e284 + d_703fb2dd + d_bfed6c90 + d_52e07f92 + d_6521de54 + d_f564ce4b + d_a1f7a087 + d_151cf1e3 + d_67418443 + d_596c9360 + d_e2266266 + d_a0f413c1 + d_15c775d8 + d_d0b87472 + d_e591f7ae + d_5ec935ad + d_4bc9c37a + d_cddc896a + d_6f2d7b9c + d_40bf9c10 + d_00b3c4f1 + d_8d8a7fdc + d_12a2ebd4 + d_f252650b + d_a4dc0d8c + d_703fdac3 + d_c23b8e00 + d_0558c9dd + d_969dd810 + d_2fe8ec48 + d_1a0eaa6b + d_f4539007 >= 0
+FEATUREMAX.careerstage_early: d_eb244e50 + d_08ff8d2f + d_6e3ce0df + d_ddb833db + d_d34c6625 + d_2ad48170 + d_98ff74c3 + d_f476a125 + d_716d4e50 + d_a6c768f3 + d_73c6dac7 + d_8406c693 + d_90ed3bd4 + d_e45d93e2 + d_154211bf + d_ff602976 + d_10aba0ec + d_2665e284 + d_703fb2dd + d_bfed6c90 + d_52e07f92 + d_6521de54 + d_f564ce4b + d_a1f7a087 + d_151cf1e3 + d_67418443 + d_596c9360 + d_e2266266 + d_a0f413c1 + d_15c775d8 + d_d0b87472 + d_e591f7ae + d_5ec935ad + d_4bc9c37a + d_cddc896a + d_6f2d7b9c + d_40bf9c10 + d_00b3c4f1 + d_8d8a7fdc + d_12a2ebd4 + d_f252650b + d_a4dc0d8c + d_703fdac3 + d_c23b8e00 + d_0558c9dd + d_969dd810 + d_2fe8ec48 + d_1a0eaa6b + d_f4539007 <= 40
+FEATUREMIN.verification: d_068cd185 + d_6e3cf1ce + d_d97dd06f + d_16f35e31 + d_e55d57bd + d_08ff8d2f + d_569fe185 + d_98ff74c3 + d_b4214b2d + d_05988f21 + d_569f3f27 + d_10e6b05e + d_703fdac3 + d_9d70a218 + d_27ff270c + d_f83bfe15 + d_7ea85f8c + d_76553238 + d_9f9a35c2 + d_6a222c1a >= 0
+FEATUREMAX.verification: d_068cd185 + d_6e3cf1ce + d_d97dd06f + d_16f35e31 + d_e55d57bd + d_08ff8d2f + d_569fe185 + d_98ff74c3 + d_b4214b2d + d_05988f21 + d_569f3f27 + d_10e6b05e + d_703fdac3 + d_9d70a218 + d_27ff270c + d_f83bfe15 + d_7ea85f8c + d_76553238 + d_9f9a35c2 + d_6a222c1a <= 50
+FEATUREMIN.mlsystems: d_67418443 + d_f4539007 + d_75e4d32d + d_0558c9dd + d_5b6326df + d_7dba6ba3 + d_10aba0ec + d_f1023f1f + d_ff602976 + d_f2fb100b + d_154211bf + d_e45d93e2 + d_7f34adf5 + d_6f2d7b9c + d_8406c693 + d_ca992851 + d_6e3cf1ce + d_4bc9c37a + d_be931a62 + d_4323a40a + d_cbc15cdb + d_6199c456 >= 0
+FEATUREMAX.mlsystems: d_67418443 + d_f4539007 + d_75e4d32d + d_0558c9dd + d_5b6326df + d_7dba6ba3 + d_10aba0ec + d_f1023f1f + d_ff602976 + d_f2fb100b + d_154211bf + d_e45d93e2 + d_7f34adf5 + d_6f2d7b9c + d_8406c693 + d_ca992851 + d_6e3cf1ce + d_4bc9c37a + d_be931a62 + d_4323a40a + d_cbc15cdb + d_6199c456 <= 50
+FEATUREMIN.mobilesensor: d_9f184d15 + d_3a37cdc7 + d_2665e284 + d_40bf9c10 + d_a2ee9cea + d_f2fb100b + d_7008c742 + d_a062c1a5 + d_f564ce4b + d_7dba6ba3 + d_b7ea1fd5 + d_8dfd2555 + d_856e6fc1 + d_e9149bf7 + d_e82b5b27 + d_15c775d8 + d_9cb10483 + d_d0b87472 + d_c21f67d3 + d_1cdb5979 >= 0
+FEATUREMAX.mobilesensor: d_9f184d15 + d_3a37cdc7 + d_2665e284 + d_40bf9c10 + d_a2ee9cea + d_f2fb100b + d_7008c742 + d_a062c1a5 + d_f564ce4b + d_7dba6ba3 + d_b7ea1fd5 + d_8dfd2555 + d_856e6fc1 + d_e9149bf7 + d_e82b5b27 + d_15c775d8 + d_9cb10483 + d_d0b87472 + d_c21f67d3 + d_1cdb5979 <= 50
+FEATUREMIN.careerstage_mid: d_1231bb27 + d_2f6b186b + d_6a2200fe + d_e55d57bd + d_9d1913de + d_d8f56364 + d_6e3cf1ce + d_c21f67d3 + d_1cdb5979 + d_9cb10483 + d_068cd185 + d_28aee8c5 + d_4323a40a + d_75fd6fb7 + d_e9149bf7 + d_8dfd2555 + d_673f65f3 + d_2dd56c8b + d_75e4d32d + d_7ea85f8c + d_f83bfe15 + d_27ff270c + d_5b6326df + d_ed455875 + d_10e6b05e + d_3239e055 + d_a2ee9cea >= 0
+FEATUREMAX.careerstage_mid: d_1231bb27 + d_2f6b186b + d_6a2200fe + d_e55d57bd + d_9d1913de + d_d8f56364 + d_6e3cf1ce + d_c21f67d3 + d_1cdb5979 + d_9cb10483 + d_068cd185 + d_28aee8c5 + d_4323a40a + d_75fd6fb7 + d_e9149bf7 + d_8dfd2555 + d_673f65f3 + d_2dd56c8b + d_75e4d32d + d_7ea85f8c + d_f83bfe15 + d_27ff270c + d_5b6326df + d_ed455875 + d_10e6b05e + d_3239e055 + d_a2ee9cea <= 40
+FEATUREMIN.energyeff: d_7dba6ba3 + d_d0b87472 + d_9cb10483 + d_75e4d32d + d_e82b5b27 + d_a6c768f3 + d_a062c1a5 + d_02db7625 + d_856e6fc1 + d_f1023f1f + d_8306e650 + d_a4dc0d8c + d_b7ea1fd5 + d_3a37cdc7 + d_9f184d15 >= 0
+FEATUREMAX.energyeff: d_7dba6ba3 + d_d0b87472 + d_9cb10483 + d_75e4d32d + d_e82b5b27 + d_a6c768f3 + d_a062c1a5 + d_02db7625 + d_856e6fc1 + d_f1023f1f + d_8306e650 + d_a4dc0d8c + d_b7ea1fd5 + d_3a37cdc7 + d_9f184d15 <= 50
+FEATUREMIN.measurement: d_10e6b05e + d_7dba6ba3 + d_c23b8e00 + d_5b6326df + d_8229950c + d_dadb8799 + d_bfed6c90 + d_0558c9dd + d_02db7625 + d_f83bfe15 + d_a1f7a087 + d_596c9360 + d_f2fb100b + d_49083997 + d_edb23aa0 + d_8306e650 + d_15c775d8 + d_a60f6e5b + d_e591f7ae + d_a6c768f3 + d_1231bb27 + d_90ed3bd4 + d_8406c693 + d_673f65f3 + d_75fd6fb7 + d_e9149bf7 + d_1fd5edd4 + d_75b84034 + d_b7ea1fd5 + d_05988f21 >= 0
+FEATUREMAX.measurement: d_10e6b05e + d_7dba6ba3 + d_c23b8e00 + d_5b6326df + d_8229950c + d_dadb8799 + d_bfed6c90 + d_0558c9dd + d_02db7625 + d_f83bfe15 + d_a1f7a087 + d_596c9360 + d_f2fb100b + d_49083997 + d_edb23aa0 + d_8306e650 + d_15c775d8 + d_a60f6e5b + d_e591f7ae + d_a6c768f3 + d_1231bb27 + d_90ed3bd4 + d_8406c693 + d_673f65f3 + d_75fd6fb7 + d_e9149bf7 + d_1fd5edd4 + d_75b84034 + d_b7ea1fd5 + d_05988f21 <= 50
+FEATUREMIN.industryacad_i: d_c21f67d3 + d_cddc896a + d_a60f6e5b + d_394e5875 + d_e55d57bd + d_9d1913de + d_d8f56364 + d_16f35e31 + d_6e3ce0df + d_ddb833db + d_75fd6fb7 + d_6199c456 + d_eb244e50 + d_4323a40a + d_f476a125 + d_be931a62 + d_5b6326df + d_969dd810 + d_703fdac3 + d_c589d483 + d_083feac7 + d_5227eb4c + d_d13725bc + d_41f409ad + d_ba05b43d + d_edb23aa0 + d_9f184d15 + d_fb35238e >= 0
+FEATUREMAX.industryacad_i: d_c21f67d3 + d_cddc896a + d_a60f6e5b + d_394e5875 + d_e55d57bd + d_9d1913de + d_d8f56364 + d_16f35e31 + d_6e3ce0df + d_ddb833db + d_75fd6fb7 + d_6199c456 + d_eb244e50 + d_4323a40a + d_f476a125 + d_be931a62 + d_5b6326df + d_969dd810 + d_703fdac3 + d_c589d483 + d_083feac7 + d_5227eb4c + d_d13725bc + d_41f409ad + d_ba05b43d + d_edb23aa0 + d_9f184d15 + d_fb35238e <= 60
+CANDIDATE.394e5875:  d_394e5875 = 0
+CANDIDATE.8406c693:  d_8406c693 = 1
+CANDIDATE.90ed3bd4:  d_90ed3bd4 = 0
+CANDIDATE.1231bb27:  d_1231bb27 = 1
+CANDIDATE.73c6dac7:  d_73c6dac7 = 1
+CANDIDATE.9d1913de:  d_9d1913de = 1
+CANDIDATE.1cdb5979:  d_1cdb5979 = 1
+CANDIDATE.c21f67d3:  d_c21f67d3 = 1
+CANDIDATE.716d4e50:  d_716d4e50 = 1
+CANDIDATE.a60f6e5b:  d_a60f6e5b = 1
+CANDIDATE.9cb10483:  d_9cb10483 = 1
+CANDIDATE.05988f21:  d_05988f21 = 0
+CANDIDATE.b4214b2d:  d_b4214b2d = 0
+CANDIDATE.75fd6fb7:  d_75fd6fb7 = 1
+CANDIDATE.eb244e50:  d_eb244e50 = 0
+CANDIDATE.596c9360:  d_596c9360 = 1
+CANDIDATE.27ff270c:  d_27ff270c = 0
+CANDIDATE.f83bfe15:  d_f83bfe15 = 0
+CANDIDATE.6521de54:  d_6521de54 = 0
+CANDIDATE.7dba6ba3:  d_7dba6ba3 = 0
+CANDIDATE.154211bf:  d_154211bf = 0
+CANDIDATE.2ba09a62:  d_2ba09a62 = 0
+CANDIDATE.ca992851:  d_ca992851 = 0
+CANDIDATE.16f35e31:  d_16f35e31 = 1
+CANDIDATE.4bc9c37a:  d_4bc9c37a = 1
+CANDIDATE.cddc896a:  d_cddc896a = 0
+CANDIDATE.569f3f27:  d_569f3f27 = 0
+CANDIDATE.be931a62:  d_be931a62 = 1
+CANDIDATE.6199c456:  d_6199c456 = 0
+CANDIDATE.ba05b43d:  d_ba05b43d = 0
+CANDIDATE.a062c1a5:  d_a062c1a5 = 1
+CANDIDATE.969dd810:  d_969dd810 = 0
+CANDIDATE.0558c9dd:  d_0558c9dd = 0
+CANDIDATE.3239e055:  d_3239e055 = 0
+CANDIDATE.c589d483:  d_c589d483 = 1
+CANDIDATE.8306e650:  d_8306e650 = 0
+CANDIDATE.6a222c1a:  d_6a222c1a = 0
+CANDIDATE.fb35238e:  d_fb35238e = 0
+CANDIDATE.49083997:  d_49083997 = 0
+CANDIDATE.f252650b:  d_f252650b = 0
+CANDIDATE.12a2ebd4:  d_12a2ebd4 = 0
+CANDIDATE.c520d251:  d_c520d251 = 0
+CANDIDATE.6e3c5cbb:  d_6e3c5cbb = 0
+CANDIDATE.7f34adf5:  d_7f34adf5 = 0
+CANDIDATE.6a2200fe:  d_6a2200fe = 1
+CANDIDATE.d97dd06f:  d_d97dd06f = 0
+CANDIDATE.4323a40a:  d_4323a40a = 0
+CANDIDATE.2a9d214a:  d_2a9d214a = 0
+CANDIDATE.f476a125:  d_f476a125 = 1
+CANDIDATE.e9149bf7:  d_e9149bf7 = 1
+CANDIDATE.856e6fc1:  d_856e6fc1 = 1
+CANDIDATE.2ad48170:  d_2ad48170 = 1
+CANDIDATE.ddb833db:  d_ddb833db = 1
+CANDIDATE.6e3ce0df:  d_6e3ce0df = 1
+CANDIDATE.cbb2e9f9:  d_cbb2e9f9 = 0
+CANDIDATE.75e4d32d:  d_75e4d32d = 1
+CANDIDATE.5227eb4c:  d_5227eb4c = 0
+CANDIDATE.083feac7:  d_083feac7 = 1
+CANDIDATE.a1f7a087:  d_a1f7a087 = 1
+CANDIDATE.dadb8799:  d_dadb8799 = 1
+CANDIDATE.bfed6c90:  d_bfed6c90 = 1
+CANDIDATE.703fb2dd:  d_703fb2dd = 0
+CANDIDATE.10e6b05e:  d_10e6b05e = 0
+CANDIDATE.ff602976:  d_ff602976 = 1
+CANDIDATE.f2fb100b:  d_f2fb100b = 1
+CANDIDATE.e45d93e2:  d_e45d93e2 = 1
+CANDIDATE.6f2d7b9c:  d_6f2d7b9c = 1
+CANDIDATE.e591f7ae:  d_e591f7ae = 0
+CANDIDATE.b7ea1fd5:  d_b7ea1fd5 = 1
+CANDIDATE.1fd5edd4:  d_1fd5edd4 = 1
+CANDIDATE.8dfd2555:  d_8dfd2555 = 0
+CANDIDATE.41f409ad:  d_41f409ad = 0
+CANDIDATE.f4539007:  d_f4539007 = 0
+CANDIDATE.2fe8ec48:  d_2fe8ec48 = 0
+CANDIDATE.2dd56c8b:  d_2dd56c8b = 0
+CANDIDATE.cf2ac5e1:  d_cf2ac5e1 = 0
+CANDIDATE.7ea85f8c:  d_7ea85f8c = 1
+CANDIDATE.8229950c:  d_8229950c = 0
+CANDIDATE.5b512498:  d_5b512498 = 0
+CANDIDATE.7fc490e1:  d_7fc490e1 = 0
+CANDIDATE.3a37cdc7:  d_3a37cdc7 = 1
+CANDIDATE.f1023f1f:  d_f1023f1f = 0
+CANDIDATE.a340b66c:  d_a340b66c = 1
+CANDIDATE.a2ee9cea:  d_a2ee9cea = 1
+CANDIDATE.00b3c4f1:  d_00b3c4f1 = 0
+GROUPCONST.0729:   d_90ed3bd4  +  d_e45d93e2  +  d_6521de54  +  d_f1023f1f  +  d_569fe185  +  d_8306e650  <= 10
+GROUPCONST.7c06:   d_9f9a35c2  +  d_2fe8ec48  +  d_10aba0ec  +  d_00b3c4f1  <= 10
+GROUPCONST.6d89:   d_76553238  +  d_2665e284  +  d_12a2ebd4  +  d_02db7625  <= 10
+GROUPCONST.f788:   d_5ec935ad  +  d_596c9360  +  d_1a0eaa6b  +  d_40bf9c10  +  d_154211bf  <= 10
+GROUPCONST.0eaa:   d_d0b87472  +  d_49083997  +  d_6a2200fe  +  d_716d4e50  <= 10
+GROUPCONST.da06:   d_c21f67d3  +  d_eb244e50  +  d_092c6625  +  d_f476a125  +  d_ddb833db  +  d_c589d483  +  d_16f35e31  +  d_5b6326df  +  d_d8f56364  +  d_edb23aa0  +  d_6199c456  +  d_703fdac3  <= 10
+GROUPCONST.7e92:   d_2f6b186b  +  d_c520d251  +  d_2ad48170  +  d_7008c742  <= 10
+Binaries
+d_d0b87472
+d_08ff8d2f
+d_5ec935ad
+d_49083997
+d_2ad48170
+d_9d70a218
+d_98ff74c3
+d_a340b66c
+d_ddb833db
+d_c21f67d3
+d_9cb10483
+d_ca992851
+d_a0f413c1
+d_73c6dac7
+d_f476a125
+d_d13725bc
+d_f2fb100b
+d_151cf1e3
+d_76553238
+d_569fe185
+d_569f3f27
+d_cbc15cdb
+d_394e5875
+d_cbb2e9f9
+d_be931a62
+d_1cdb5979
+d_7ea85f8c
+d_27ff270c
+d_41f409ad
+d_d8f56364
+d_f1023f1f
+d_75b84034
+d_4323a40a
+d_c23b8e00
+d_856e6fc1
+d_40bf9c10
+d_e55d57bd
+d_6a222c1a
+d_6a2200fe
+d_e45d93e2
+d_2665e284
+d_cf2ac5e1
+d_673f65f3
+d_2dd56c8b
+d_1a0eaa6b
+d_c589d483
+d_b4214b2d
+d_eb244e50
+d_969dd810
+d_2ba09a62
+d_f252650b
+d_16f35e31
+d_8229950c
+d_edb23aa0
+d_083feac7
+d_5227eb4c
+d_6f2d7b9c
+d_10aba0ec
+d_e82b5b27
+d_8406c693
+d_90ed3bd4
+d_b7ea1fd5
+d_d97dd06f
+d_0558c9dd
+d_15c775d8
+d_3a37cdc7
+d_75e4d32d
+d_2f6b186b
+d_1fd5edd4
+d_5b512498
+d_9d1913de
+d_e2266266
+d_596c9360
+d_f4539007
+d_7fc490e1
+d_6e3c5cbb
+d_6e3cf1ce
+d_6e3ce0df
+d_6199c456
+d_1231bb27
+d_154211bf
+d_8306e650
+d_67418443
+d_cddc896a
+d_2fe8ec48
+d_068cd185
+d_f83bfe15
+d_f564ce4b
+d_d34c6625
+d_75fd6fb7
+d_e591f7ae
+d_12a2ebd4
+d_00b3c4f1
+d_9f184d15
+d_a062c1a5
+d_fb35238e
+d_6521de54
+d_05988f21
+d_a6c768f3
+d_ba05b43d
+d_28aee8c5
+d_092c6625
+d_02db7625
+d_3239e055
+d_703fdac3
+d_703fb2dd
+d_4bc9c37a
+d_9f9a35c2
+d_10e6b05e
+d_ff602976
+d_a2ee9cea
+d_5b6326df
+d_a4dc0d8c
+d_7008c742
+d_a60f6e5b
+d_2a9d214a
+d_ed455875
+d_bfed6c90
+d_c520d251
+d_8d8a7fdc
+d_e9149bf7
+d_52e07f92
+d_8dfd2555
+d_7f34adf5
+d_dadb8799
+d_716d4e50
+d_a1f7a087
+d_7dba6ba3
+End

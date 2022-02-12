@@ -1,0 +1,30 @@
+First;ROWMERGE-Last	
+Last;ROWMERGE-First	
+Affiliation;IGNORE
+Email;IGNORE
+Women/Diversity;EXPAND
+Invite Preference;IGNORE
+PC Invite Status;IGNORE
+Industry/Acad;EXPAND
+Career Stage;EXPAND
+Comments;IGNORE
+Geo;EXPAND
+Area Populated;IGNORE
+dist. systems;BINARYCOL
+security/privacy;BINARYCOL
+storage/caching/DB;BINARYCOL
+energy-eff;BINARYCOL
+cloud;BINARYCOL
+mobile/sensor;BINARYCOL
+wireless;BINARYCOL
+measurement;BINARYCOL
+networking;BINARYCOL
+net management;BINARYCOL
+virt/os;BINARYCOL
+systems;BINARYCOL
+deployments;BINARYCOL
+big data;BINARYCOL
+economics;BINARYCOL
+hardware;BINARYCOL
+verification;BINARYCOL
+ml-systems;BINARYCOL

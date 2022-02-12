@@ -1,0 +1,44 @@
+1. Download gdoc as TSV
+
+3. Preprocess to generate TSV in CSV Readable ILP format
+
+perl preprocess.pl  anonymized_input.tsv pc_ilpinput_TEST.csv
+
+(inside script -- directly reads the schema.txt file)
+
+4. Preprocess to generate group constraints (modify file later if needed)
+
+perl generate_group_constraints.pl anonymized_input.tsv constraints_per_group_TEST.txt 4 3
+
+5. Write down column constraints 
+
+Edit constraints_column.csv to change thresholds per column
+
+6. Enumerate row/candidate avail constraints 
+
+Edit candidate_constraints.csv to manually set some of these to be zero 1; e.g., 
+
+Or generate from the tsv  
+perl generate_candidate_constraints.pl pcinvitelist_dec13.tsv candidate_constraints_dec13.csv
+
+--> This is to make sure that people picked from the previous iterations or fixed by the chairs are always "statically" assigned irrespective of the solver.  
+
+7. Run ILP generation and solve it 
+
+(read the README_EZPC for more info)
+
+perl ezpc_solver.pl pcinvite_ilpinput_TEST.csvconstraints_features_TEST.csv constraints_candidate_TEST.csv constraints_group_TEST.txt 60 70 formulation_TEST.ilp solution_TEST.sol
+
+8. Extract solution
+
+perl extract_solution.pl solution_TEST.sol picked_TEST.txt dropped_TEST.txt
+
+9. Validate if necessary
+
+perl validate_solution.pl pcinvite_ilpinput_TEST_new.csv  columnconstraints_TEST.csv  picked_TEST.txt groupconstraints_TEST_new.txt  60 70
+
+if infeasible 
+	Work through each "column" constraint and fiddle with min/max values
+
+10. Visualize coverage per area 
+perl visualize_coverage.pl ilpinput_TEST.csv picked_TEST.txt visualize.csv

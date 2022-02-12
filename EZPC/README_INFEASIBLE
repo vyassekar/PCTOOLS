@@ -1,0 +1,6 @@
+
+
+What to do if solver says infeasible?
+	try setting all the max to be MAXPC
+	try setting all the min to be MINPC
+	try disabling group constraints
